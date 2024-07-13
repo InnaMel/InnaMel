@@ -18,8 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/%20%20%20%20WPF%20%7C%20MVVM-0064b2?style=for-the-badge&logoColor=ffffff&logoSize=auto&labelColor=0064b2)
 ![Static Badge](https://img.shields.io/badge/%20%20%20%20MS%20SQL%20%7C%20TSQL-a91d22?style=for-the-badge&logoColor=ffffff&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/%20%20%20%20GitHub-bcbcbc?style=for-the-badge&logo=github&logoSize=auto&labelColor=181717)
+![Static Badge](https://img.shields.io/badge/%20%20%20%20GitHub-bcbcbc?style=for-the-badge&logo=github&logoSize=auto&labelColor=181717&color=181717)
+![Static Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innamel&show_icons=true&locale=en" alt="innamel" /></p>
+<br/>
+<p>&nbsp;<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=innamel&show_icons=true&locale=en" alt="innamel" /></p>
+<p>&nbsp;<img  align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="innamel" /></p>
