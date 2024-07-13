@@ -8,8 +8,6 @@
 ![Static Badge](https://img.shields.io/badge/%20%20%20%20Inna%20%20Melnikova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoSize=auto&link=www.linkedin.com%2Fin%2Finnamelnikova-57550862)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innamel" alt="innamel" /></a> </p>
-
 ### :black_medium_square: Top Technologies and Tools
 
 ![Static Badge](https://img.shields.io/badge/%20%20%20%20C%20Sharp-ffffff?style=for-the-badge&logo=sharp&logoColor=ffffff&logoSize=auto&labelColor=5c2d91&color=black)
