@@ -4,7 +4,7 @@
 
 ### :black_medium_square: Reach me out:
 
-![Static Badge](https://img.shields.io/badge/Inna%20Melnikova-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&logoSize=auto&link=innamelnikovaukr%40gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Inna%20Melnikova-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&logoSize=auto&link=innamelnikovaukr%40gmail.com)](mailto:innamelnikovaukr@gmail.com)
 ![Static Badge](https://img.shields.io/badge/%20%20%20%20Inna%20%20Melnikova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoSize=auto&link=www.linkedin.com%2Fin%2Finnamelnikova-57550862)
 
 
