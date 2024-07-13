@@ -20,4 +20,5 @@
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <br/>
-<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=innamel&show_icons=true&locale=en" alt="innamel" /><img align="center" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innamel&layout=compact" alt="innamel" />
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=innamel&show_icons=true&locale=en" alt="innamel" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innamel&layout=compact" alt="innamel" />
