@@ -4,12 +4,15 @@
 
 Reach me out:
 
-![Static Badge](https://img.shields.io/badge/%20%20%20%20Inna%20%20Melnikova-ea4335?style=flat&logo=gmail&logoColor=ffffff&logoSize=auto&link=innamelnikovaukr%40gmail.com)
+![Static Badge](https://img.shields.io/badge/%20%20%20%20Inna%20%20Melnikova-%23EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&logoSize=auto&link=www.linkedin.com%2Fin%2Finnamelnikova-57550862)
+![Static Badge](https://img.shields.io/badge/%20%20%20%20Inna%20%20Melnikova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoSize=auto&link=www.linkedin.com%2Fin%2Finnamelnikova-57550862)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innamel" alt="innamel" /></a> </p>
 
-**C# | .Net Core | WPF | ASP.Net Core**
+### Top Technologies
+
+![Static Badge](https://img.shields.io/badge/%20%20%20%20dot%20Net%20Core-ffffff?style=for-the-badge&logo=dotnet&logoColor=ffffff&logoSize=auto&labelColor=9a4f96&color=black)
 
 <p align="left">
 </p>
